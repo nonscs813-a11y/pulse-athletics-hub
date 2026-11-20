@@ -14,10 +14,10 @@
   "use strict";
 
   const FIREBASE_CONFIG = Object.freeze({
-    projectId: "pulse-athletics-hub",
+    projectId: "julio-enterprise-suite",
     collection: "reservas_academia",
     storageKey: "fb_enterprise_reservas_academia_v4",
-    apiEndpoint: "https://firestore.googleapis.com/v1/projects/pulse-athletics-hub/databases/(default)/documents/reservas_academia",
+    apiEndpoint: "https://firestore.googleapis.com/v1/projects/julio-enterprise-suite/databases/(default)/documents/reservas_academia",
     timeoutMs: 4500
   });
 
